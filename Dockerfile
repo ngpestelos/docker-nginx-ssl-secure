@@ -1,5 +1,5 @@
 FROM nginx
-MAINTAINER MarvAmBass
+MAINTAINER Nestor G Pestelos Jr
 
 ENV LANG C.UTF-8
 
